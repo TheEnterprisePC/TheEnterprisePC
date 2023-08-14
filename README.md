@@ -1,6 +1,5 @@
 - Hi, I’m @TheEnterprisePC
-- I'm new here.
-- I’m currently learning ...
+- 此为博客站点：https://theenterprisepc.github.io/
 
 <!---
 TheEnterprisePC/TheEnterprisePC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
